@@ -35,7 +35,7 @@ const Test = () => {
     }
 
     function test() {
-        
+        console.log("branch1 code") 
     }
 
     useEffect(() => {
